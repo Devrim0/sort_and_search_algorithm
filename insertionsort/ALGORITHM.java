@@ -88,7 +88,7 @@ public class ALGORITHM {
     }
 
     void linnerprint(int d[], int x) {
-        System.out.println(x + " bulndumu: " + linnersearch(d, x));
+        System.out.println(x + " bulundumu: " + linnersearch(d, x));
     }
 
     public static void main(String[] args) {
